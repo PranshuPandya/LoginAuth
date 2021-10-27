@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "6364905033",
+    "firebase_url": "https://loginauth-7401e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "loginauth-7401e",
+    "storage_bucket": "loginauth-7401e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6364905033:android:a0ee874a126ec4e4350998",
+        "android_client_info": {
+          "package_name": "com.example.loginauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6364905033-c7r7kisbeaeko18j3m8052etg9gvqke6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqaE9OErCXfudIqRjqIAHpPYwzFpcg-9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6364905033-c7r7kisbeaeko18j3m8052etg9gvqke6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
